@@ -1,0 +1,135 @@
+body, ol, ul, h1, h2, h3, h4, h5, h6, p, th, td, dl, dd, form, fieldset, legend, input, textarea, select {
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: microsoft yahei,simhei;
+	background: #f0f1f4;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+ul {
+	list-style: none;
+}
+a:link, a:visited {
+	text-decoration: none;
+}
+img{
+	/*display: block;*/
+}
+.clear{
+	clear:both;}
+
+.yu-c7d{
+	color: #7d7d7d;
+}
+.yu-h45{
+	height: 45px;
+}
+.yu-bgf4{
+	background: #f4f4f4;
+}
+.yu-l45{
+	line-height: 45px;
+}
+.yu-pad20{
+	padding: 20px;
+}
+.yu-next-ico{
+	font-family: simsun;
+}
+.yu-c99{
+	color: #999999;
+}
+.yu-font14{
+	font-size: 14px;
+}
+.yu-pos-r{
+	position: relative;
+}
+.yu-font16{
+	font-size: 16px;
+}
+.yu-font24{
+	font-size: 24px;
+}
+.yu-font26{
+	font-size: 26px;
+}
+.yu-rmar60{
+	margin-right: 60px;
+}
+.yu-bmar60{
+	margin-bottom: 60px;
+}
+.yu-orange{
+	color: #f60;
+}
+.yu-lrmar10{
+	margin:0 10px;
+}
+.yu-c00{
+	color: #000;
+}
+.yu-tbpad5{
+	padding: 5px 0;
+}
+.yu-rpad80{
+	padding-right: 80px;
+}
+.yu-bbor{
+	border-bottom: 1px solid #e7e7e7;
+}
+.yu-h50{
+	height: 50px;
+}
+.yu-line35{
+	line-height: 35px;
+}
+.yu-rmar10{
+	margin-right: 10px;
+}
+.yu-c66{
+	color: #666;
+}
+.yu-bmar35{
+	margin-bottom: 35px;
+}
+.yu-blue1{
+	color: #2093f7;
+}
+.yu-font12{
+	font-size: 12px;
+}
+.yu-tbpad10{
+	padding: 10px 0;
+}
+.yu-font18{
+	font-size: 18px;
+}
+.yu-bmar10{
+	margin-bottom: 10px;
+}
+.no-rmar{
+	margin-right: 0 !important;
+}
+.yu-line37{
+	line-height: 37px;
+}
+.yu-c88{
+	color: #888;
+
+}
+.yu-tmar30{
+	margin-top: 30px;
+}
+.yu-rpad20{
+	padding-right: 20px;
+}
+.yu-rmar20{
+	margin-right: 20px;
+}
